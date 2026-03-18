@@ -3,6 +3,7 @@
 </div>
 
 # AI Mastra Agent Workshop
+## eerste commit naar eigen GitHub
 
 This workshop demonstrates how to build AI agents that can analyze GitHub pull requests to generate and execute test plans fully autonomously.
 
